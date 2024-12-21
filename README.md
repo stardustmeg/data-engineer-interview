@@ -53,8 +53,8 @@ SQL конструкции следуют стандартному паттер�
 - **DCL (Data Control Language):** управление доступом к данным (`GRANT`, `REVOKE`).
 - **TCL (Transaction Control Language):** управление транзакциями (`BEGIN`, `COMMIT`, `ROLLBACK`).
 
-<div align="center" width="70%">
-  <img src="img/mind-map.jpg">
+<div align="center">
+  <img src="img/mind-map.jpg" width="70%">
 </div>
 
 ## SQL Set Operations
@@ -87,12 +87,12 @@ SQL конструкции следуют стандартному паттер�
 - **FULL OUTER JOIN:** объединение всех строк из обеих таблиц.
 - **CROSS JOIN:** декартово произведение (все комбинации строк).
 
-<div align="center" width="50%">
-  <img src="img/joins.jpg">
+<div align="center">
+  <img src="img/joins.jpg" width="50%">
 </div>
 
-<div align="center" width="50%">
-  <img src="img/joins.gif">
+<div align="center">
+  <img src="img/joins.gif" width="50%">
 </div>
 
 ## SQL Limit and Offset
